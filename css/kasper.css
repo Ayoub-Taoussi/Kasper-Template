@@ -96,7 +96,7 @@ body{
 /* End Special Title */
 /* Start Header */
 #header{
-    background-image: url(Images/landing.jpg);
+    background-image: url(../Images/landing.jpg);
     background-size: cover;
     background-color: #777;
     min-height: 100vh;
